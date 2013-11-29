@@ -1,7 +1,7 @@
 safe:             false
 port:             7998
-baseurl:          /Font-Awesome/  # Where GitHub serves the project up from
-url:              http://localhost:7998
+baseurl:          /my-font-awesome/  # Where GitHub serves the project up from
+url:              http://wwag110465.github.io:7998
 
 source:           src
 destination:      _gh_pages
